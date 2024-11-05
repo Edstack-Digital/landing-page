@@ -1,2 +1,1 @@
-# landing-page
-Edstack Landing Page
+# EdstackLandingPage
